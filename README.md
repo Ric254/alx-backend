@@ -1,1 +1,8 @@
-My first readme
+# ALX Backend
+
+![Repo size](https://img.shields.io/github/repo-size/Ric254/alx-backend)
+![Pep8 style](https://img.shields.io/badge/PEP8-style%20guide-purple?style=round-square)
+![Latest commit](https://img.shields.io/github/last-commit/Ric254/alx-backend/main?style=round-square)
+
+This repo contains projects used in learning backend development concepts.
+
